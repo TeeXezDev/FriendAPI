@@ -1,4 +1,4 @@
-fask
+flask
 uvicorn
 requests
 pyjwt
